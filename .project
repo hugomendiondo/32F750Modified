@@ -30,11 +30,4 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>Drivers</name>
-			<type>2</type>
-			<location>C:/Trabajo/siana/e2ip/CubeMXTests/Drivers</location>
-		</link>
-	</linkedResources>
 </projectDescription>
